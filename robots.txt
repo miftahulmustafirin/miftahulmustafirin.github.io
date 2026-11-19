@@ -25,4 +25,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://github.io
+Sitemap: https://miftahulmustafirin.github.io/sitemap.xml
